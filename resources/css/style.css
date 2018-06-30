@@ -85,3 +85,7 @@ p {
     0% {opacity:1;}
     100% {opacity:1; content: "0_0"}
 }
+
+.social-media:hover {
+    text-decoration: underline;
+}
